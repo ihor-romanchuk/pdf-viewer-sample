@@ -1,0 +1,32 @@
+.view-header-border {
+  background: #e5e7eb;
+}
+
+.custom-ribbons-container {
+  display: none;
+}
+
+.MainHeader {
+  height: 46px !important;
+  background: white !important;
+}
+
+.HeaderItems {
+  justify-content: space-between;
+}
+
+.HeaderItems > .divider {
+  display: none;
+}
+
+.SearchOverlay .options {
+  display: none !important;
+}
+
+.zoom-overlay {
+  background-color: white !important;
+}
+
+[data-element="menuButton"] {
+  visibility: hidden;
+}
